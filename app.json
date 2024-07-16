@@ -1,8 +1,14 @@
 {
   "expo": {
     "name": "powersoft_App",
-    "slug": "powersoft_App",
-    "version": "1.0.0"
+    "slug": "lokesh-expo",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "17091f59-dd3f-44bf-b0f5-64622ea4ab93"
+      }
+    },
+    "owner": "lokesh2809"
   },
   "name": "powersoft_App"
 }
